@@ -1,7 +1,7 @@
 :root {
     --primaryText: #fff;
     --secondaryText: rgba(245, 40, 145, 0.8);
-    --primary: rgba(242, 0, 63, 0.29);
+    --primary: rgba(242, 0, 63, 0.5);
     --secondary: rgba(255, 1, 94, .60); 
     --buttonHover: rgba(242, 0, 63, 0.61);
     --smallButtonHover: rgba(255, 179, 199, 0.61);
@@ -34,8 +34,7 @@ body {
     background-attachment: fixed;
     /* Resizes the background image to cover the entire container */
     background-size: cover;
-    font-family:  font-family: "Kanit", sans-serif;
-    font-weight: 600;
+    font-family: "Kanit", sans-serif;
     font-style: normal;;
     line-height: 1.5;
     font-size: 18px;
